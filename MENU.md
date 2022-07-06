@@ -1,0 +1,10 @@
+- What is networking? (Quick review)
+- OSI - Open Systems Interconnection model
+- TCP introduction
+- HTTP Fundamentals
+- Its request & response nature
+- How it leverages TCP/UDP
+- Most important parts of a request
+- Common status codes such as 200, 302, 404, and 500
+- Simple node HTTP Client example (using request)
+- Chat server with TCP
